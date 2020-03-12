@@ -1,0 +1,11 @@
+{
+  "name": "watermark-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:filip-taczkowski/watermark-app.git",
+  "author": "Filip Taczkowski",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
